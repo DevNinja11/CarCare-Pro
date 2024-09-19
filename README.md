@@ -39,20 +39,6 @@ I developed **CarCare-Pro**, a user-friendly, Java-based web application tailore
 - **Data Editing**: Update and modify records related to cars, clients, and employees with a user-friendly interface.
 - **Service Reports**: Generate detailed reports on car repairs, including histories and insights into service operations.
 
-## Integrations and Tech Stack:
-**Technologies Used**:
-- **Frontend**: JSP, HTML, CSS
-- **Backend**: Java (Servlets, JSP), Spring Framework
-- **Database**: MySQL
-<b>Built with:<b>
-- [Spring Tool Suite 3.9.2](https://spring.io/tools/sts/all)
-- [phpMyAdmin 4.5.4.1](https://www.phpmyadmin.net/)
-- [Bootstrap v3.3.7](http://getbootstrap.com)
-
-
-## Challenges Faced:
-Developing **CarCare-Pro** came with several challenges, including ensuring scalability to handle multiple service centers, integrating a robust reporting mechanism, and maintaining data consistency across various modules. Careful planning and robust development practices were key to overcoming these challenges and delivering a reliable, scalable system.
-
 ## My Contribution:
 I played a pivotal role in bringing **CarCare-Pro** to life by handling key aspects of its development, including:
 - **Frontend Development**: Crafted a responsive, intuitive interface using JSP, HTML, and CSS, making the system easy to use.
