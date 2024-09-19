@@ -1,21 +1,6 @@
 
 # CarCare-Pro - Sector: Automotive Industry
 
-## Description:
-I developed **CarCare-Pro**, a streamlined web application crafted to optimize the management of car service operations. This intuitive solution enhances automotive service providers' ability to manage car repairs, employees, and clients while offering comprehensive service reports and histories. With **CarCare-Pro**, the goal is to simplify operational complexities and improve overall business efficiency.
-
-## Table of Contents:
-1. [Project Overview](#project-overview)
-2. [Key Features](#key-features)
-   - [Admin Web App](#admin-web-app)
-3. [Integrations and Tech Stack](#integrations-and-tech-stack)
-4. [Challenges Faced](#challenges-faced)
-5. [My Contribution](#my-contribution)
-6. [Impact Created](#impact-created)
-7. [Conclusion](#conclusion)
-
----
-
 ## Project Overview:
 I developed **CarCare-Pro**, a user-friendly, Java-based web application tailored to simplify the management of automotive service centers. From tracking car repairs to managing employee records and keeping detailed client histories, **CarCare-Pro** is designed to streamline operations, provide insightful service reports, and improve overall efficiency for service providers.
 ## Tech Stack
@@ -38,6 +23,10 @@ I developed **CarCare-Pro**, a user-friendly, Java-based web application tailore
 - **Client Management**: Maintain a detailed database of clients, including contact information and service history.
 - **Data Editing**: Update and modify records related to cars, clients, and employees with a user-friendly interface.
 - **Service Reports**: Generate detailed reports on car repairs, including histories and insights into service operations.
+## Screenshots
+<img src="https://i.imgur.com/5fGSDeC.png" width="250" />  <img src="https://i.imgur.com/Icbuk6c.png" width="250" />  <img src="https://i.imgur.com/mbYSPFL.png" width="250" />
+
+<img src="https://i.imgur.com/IeYMBDX.png" width="250" />  <img src="https://i.imgur.com/1Ry7VsI.png" width="250" />  <img src="https://i.imgur.com/0lznvq2.png" width="250" />
 
 ## My Contribution:
 I played a pivotal role in bringing **CarCare-Pro** to life by handling key aspects of its development, including:
@@ -51,13 +40,6 @@ I played a pivotal role in bringing **CarCare-Pro** to life by handling key aspe
 - **Enhanced Client Management**: The ability to maintain comprehensive client records improved customer satisfaction and retention.
 - **Detailed Reporting**: Generated reports on car repairs to help service centers make informed business decisions and optimize service delivery.
 - **Data Accuracy**: Ensured consistent and accurate data across the system, reducing errors and improving service quality.
-  This version now includes the updated headings and a more engaging project overview while keeping the creative tone intact.
-
-
-## Screenshots
-<img src="https://i.imgur.com/5fGSDeC.png" width="250" />  <img src="https://i.imgur.com/Icbuk6c.png" width="250" />  <img src="https://i.imgur.com/mbYSPFL.png" width="250" />
-
-<img src="https://i.imgur.com/IeYMBDX.png" width="250" />  <img src="https://i.imgur.com/1Ry7VsI.png" width="250" />  <img src="https://i.imgur.com/0lznvq2.png" width="250" />
 
 ## Conclusion:
 **CarCare-Pro** is a powerful solution for automotive service centers, providing a comprehensive platform to streamline operations and improve efficiency. This project showcases my ability to design, develop, and implement industry-specific solutions that make a real impact on business performance.
